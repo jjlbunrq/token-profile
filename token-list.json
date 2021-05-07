@@ -1,0 +1,25 @@
+{
+  "name": "LPOA",
+  "logoURI": "https://github.com/jjlbunrq/token-profile/blob/master/images/0x6d20d1900ec8d193d38ff7b856adf7d73d29a34f.png",
+  "keywords": [
+      "defi",
+      "LPOA",
+      "lpoa"
+    ],
+    "timestamp": "2021-05-01T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0x6d20d1900ec8d193d38ff7b856adf7d73d29a34f",
+      "name": "LPOA",
+      "symbol": "LPOA",
+      "decimals": 6,
+      "logoURI": "https://github.com/jjlbunrq/token-profile/blob/master/images/0x6d20d1900ec8d193d38ff7b856adf7d73d29a34f.png"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
